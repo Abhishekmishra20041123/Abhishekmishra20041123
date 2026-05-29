@@ -3,11 +3,11 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+<hr/>
 
-<h2 align="center">Hi 👋 I'm Abhishek — Learning, Building, and Growing Every Day</h2>
+<h1 align="center">Hi 👋 I'm Abhishek — Learning, Building, and Growing Every Day</h1>
 
-###
+<hr/>
 
 <div align="center">
   <a href="www.linkedin.com/in/mishraabhishek24" target="_blank">
@@ -24,19 +24,19 @@
   </a>
 </div>
 
-###
+<br/>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  <b>About Me</b></h2>
 
-###
+<hr/>
 
-<p align="left">🚀 **AI/ML Engineer | Full-Stack Developer | AI Enthusiast**<br><br>🔭 **I’m currently working on**<br><br>*I am currently learning on Rag and simultaneously building RAG based application<br>* Multi-Agent AI applications using LangGraph and LLMs<br>* Full-stack applications with React, Next.js, FastAPI, and Node.js<br>* Real-world AI solutions focused on Healthcare, Business Intelligence, and Automation<br><br>👯 **I’m looking to collaborate on**<br><br>* Open-source AI/ML and Generative AI projects<br>* Innovative hackathons and startup ventures<br>* Multi-Agent Systems, RAG applications, and AI-powered products<br>* Real-world problem-solving using Artificial Intelligence<br><br>🤝 **I’m looking for help with**<br><br>* Advanced MLOps and scalable AI deployments<br>* Distributed systems and cloud-native architectures<br>* Large-scale AI agent orchestration<br>* Production-grade AI application optimization<br><br>🌱 **I’m currently learning**<br><br>* Advanced Generative AI, Rag and Agentic Workflows<br>* LangGraph, Multi-Agent Systems, and AI Automation<br>* Cloud Computing, Kubernetes, and MLOps<br>* Deep Learning and LLM Fine-Tuning Techniques<br><br>💬 **Ask me about**<br><br>* Artificial Intelligence & Machine Learning<br>* Generative AI, RAG, LangChain & LangGraph<br>* FastAPI, React, Next.js, and Full-Stack Development<br>* Hackathons, Project Building, and Career Growth in AI<br><br>🏆 **Achievements**<br><br>* Hackathon Finalist at Incuverse 1.0<br>* Top 10 Finalist at Enigma 4.0<br>* Built multiple production-ready AI systems<br>* Participated in 5+ AI/ML hackathons and innovation challenges<br><br>⚡ **Fun fact**<br><br>* I love transforming innovative ideas into real-world AI products 🚀<br>* Most of my learning comes from building, experimenting, and solving actual problems.<br>* **Learning is constant; building and applying turn knowledge into progress.**</p>
+<p align="left">🚀 **AI/ML Engineer | Full-Stack Developer | AI Enthusiast**<br><br>🔭 **I’m currently working on**<br><br>• I am currently learning on Rag and simultaneously building RAG based application<br>• Multi-Agent AI applications using LangGraph and LLMs<br>• Full-stack applications with React, Next.js, FastAPI, and Node.js<br>• Real-world AI solutions focused on Healthcare, Business Intelligence, and Automation<br><br>👯 **I’m looking to collaborate on**<br><br>• Open-source AI/ML and Generative AI projects<br>• Innovative hackathons and startup ventures<br>• Multi-Agent Systems, RAG applications, and AI-powered products<br>• Real-world problem-solving using Artificial Intelligence<br><br>🤝 **I’m looking for help with**<br><br>• Advanced MLOps and scalable AI deployments<br>• Distributed systems and cloud-native architectures<br>• Large-scale AI agent orchestration<br>• Production-grade AI application optimization<br><br>🌱 **I’m currently learning**<br><br>• Advanced Generative AI, Rag and Agentic Workflows<br>• LangGraph, Multi-Agent Systems, and AI Automation<br>• Cloud Computing, Kubernetes, and MLOps<br>• Deep Learning and LLM Fine-Tuning Techniques<br><br>💬 **Ask me about**<br><br>• Artificial Intelligence & Machine Learning<br>• Generative AI, RAG, LangChain & LangGraph<br>• FastAPI, React, Next.js, and Full-Stack Development<br>• Hackathons, Project Building, and Career Growth in AI<br><br>🏆 **Achievements**<br><br>• Hackathon Finalist at Incuverse 1.0<br>• Top 10 Finalist at Enigma 4.0<br>• Built multiple production-ready AI systems<br>• Participated in 5+ AI/ML hackathons and innovation challenges<br><br>⚡ **Fun fact**<br><br>• I love transforming innovative ideas into real-world AI products 🚀<br>• Most of my learning comes from building, experimenting, and solving actual problems.<br>• **Learning is constant; building and applying turn knowledge into progress.**</p>
 
-###
+<br/>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 <b>Languages and Tools</b></h2>
 
-###
+<hr/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -98,17 +98,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
+<br/>
 
-<h3 align="left">🔥 <b>My Stats</b></h3>
+<h2 align="left">🔥 <b>My Stats</b></h2>
 
-###
+<hr/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhishekmishra20041123.Abhishekmishra20041123&"  />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -118,20 +118,24 @@
   <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
 </div>
 
-###
+<br/>
 
-<img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/snake-output/snake.svg" alt="Snake animation" />
+<hr/>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div align="center">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
+
+<br/>
