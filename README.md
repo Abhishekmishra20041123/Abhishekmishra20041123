@@ -58,7 +58,8 @@ healthcare, business intelligence, and automation.
 | ⚙️ | Multiple production-ready AI systems shipped |
 
 ---
-<img width="1440" height="1072" alt="image" src="https://github.com/user-attachments/assets/d3c03d75-42b7-4e5a-b51f-f4424ced3926" />
+<img width="1440" height="1012" alt="image" src="https://github.com/user-attachments/assets/29bb9cbb-a6e9-481c-bb5f-6ded167a359c" />
+
 
 
 
