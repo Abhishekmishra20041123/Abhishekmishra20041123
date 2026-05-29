@@ -112,10 +112,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Abhishekmishra20041123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abhishekmishra20041123&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=30&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/activity-graph-output/activity-graph.svg" height="202" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -124,3 +124,28 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
