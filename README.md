@@ -64,31 +64,45 @@ healthcare, business intelligence, and automation.
 
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/stats-output/stats.svg" height="200" alt="GitHub stats" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Abhishekmishra20041123&theme=gruvbox&hide_border=true&border_radius=8&mode=daily" height="200" alt="GitHub streak" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/languages-output/languages.svg" height="160" alt="Top languages" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/trophy-output/trophy.svg" height="160" alt="GitHub trophies" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/activity-graph-output/activity-graph.svg" height="200" alt="Activity graph" />
+<table>
+  <tr>
+    <td align="center"><b>📈 Activity Stats</b></td>
+    <td align="center"><b>🔥 Contribution Streak</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/stats-output/stats.svg" height="180" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Abhishekmishra20041123&theme=gruvbox&hide_border=true&border_radius=8&mode=daily" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>💻 Top Languages</b></td>
+    <td align="center"><b>🏆 Trophies</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/languages-output/languages.svg" height="160" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/trophy-output/trophy.svg" height="160" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>📅 Activity Graph</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Abhishekmishra20041123/Abhishekmishra20041123/activity-graph-output/activity-graph.svg" width="95%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
