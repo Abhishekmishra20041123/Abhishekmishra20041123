@@ -1,0 +1,121 @@
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; padding: 1rem 0; }
+.card {
+  background: var(--color-background-primary);
+  border: 0.5px solid var(--color-border-tertiary);
+  border-radius: var(--border-radius-lg);
+  padding: 1.25rem;
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 0.5px solid var(--color-border-tertiary);
+}
+.card-icon {
+  width: 32px; height: 32px;
+  border-radius: var(--border-radius-md);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+}
+.card-title { font-size: 14px; font-weight: 500; color: var(--color-text-primary); }
+.tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.tag {
+  display: flex; align-items: center; gap: 6px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 0.5px solid var(--color-border-tertiary);
+  background: var(--color-background-secondary);
+  font-size: 12px;
+  color: var(--color-text-secondary);
+}
+.tag img { width: 14px; height: 14px; object-fit: contain; }
+.fe .card-icon { background: #E6F1FB; color: #185FA5; }
+.be .card-icon { background: #E1F5EE; color: #0F6E56; }
+.ai .card-icon { background: #EEEDFE; color: #534AB7; }
+.dv .card-icon { background: #FAEEDA; color: #854F0B; }
+</style>
+
+<div class="grid">
+
+  <div class="card fe">
+    <div class="card-header">
+      <div class="card-icon"><i class="ti ti-layout" aria-hidden="true"></i></div>
+      <span class="card-title">Frontend & Creative</span>
+    </div>
+    <div class="tags">
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>HTML5</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>CSS3</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>JavaScript</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>TypeScript</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>React</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>Next.js</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>Tailwind</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>Bootstrap</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma</span>
+    </div>
+  </div>
+
+  <div class="card be">
+    <div class="card-header">
+      <div class="card-icon"><i class="ti ti-server" aria-hidden="true"></i></div>
+      <span class="card-title">Backend & Systems</span>
+    </div>
+    <div class="tags">
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>C</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Python</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>Java</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>Node.js</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>Express</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>Flask</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>FastAPI</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>MongoDB</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>MySQL</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>Redis</span>
+    </div>
+  </div>
+
+  <div class="card dv">
+    <div class="card-header">
+      <div class="card-icon"><i class="ti ti-terminal-2" aria-hidden="true"></i></div>
+      <span class="card-title">Tools & DevOps</span>
+    </div>
+    <div class="tags">
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>Git</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>GitHub</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>Docker</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"/>AWS</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>GCP</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>Firebase</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>Jupyter</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>VS Code</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>Heroku</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>Anaconda</span>
+    </div>
+  </div>
+
+  <div class="card ai">
+    <div class="card-header">
+      <div class="card-icon"><i class="ti ti-brain" aria-hidden="true"></i></div>
+      <span class="card-title">AI & Engineering</span>
+    </div>
+    <div class="tags">
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>NumPy</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>Pandas</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>TensorFlow</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"/>Keras</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>OpenCV</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>Scikit-learn</span>
+      <span class="tag"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>Matplotlib</span>
+      <span class="tag"><i class="ti ti-topology-star-3" style="font-size:14px;color:var(--color-text-secondary)" aria-hidden="true"></i>LangChain</span>
+      <span class="tag"><i class="ti ti-share" style="font-size:14px;color:var(--color-text-secondary)" aria-hidden="true"></i>LangGraph</span>
+      <span class="tag"><i class="ti ti-database" style="font-size:14px;color:var(--color-text-secondary)" aria-hidden="true"></i>Vector DB</span>
+      <span class="tag"><i class="ti ti-robot" style="font-size:14px;color:var(--color-text-secondary)" aria-hidden="true"></i>RAG</span>
+    </div>
+  </div>
+
+</div>
