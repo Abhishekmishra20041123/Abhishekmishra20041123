@@ -12,6 +12,7 @@ from RAG pipelines to multi-agent architectures.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishraabhishek24)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishekmishra24112004@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/HB2NKO6HBOJWB1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekmishraportfolio.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/abhishekmishra2004)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abhishekmishra20041123.Abhishekmishra20041123)
